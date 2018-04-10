@@ -3,5 +3,5 @@
     - 登录中可能会出现验证码，如有，则会在当前文件夹生成验证码文件，手动输入即可
 
 - 环境:
- - Python2.X
+ - Python2.7
  - rsa lxml beautifulsoup 库
