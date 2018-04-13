@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# encoding: utf-8
-
 import re, json, time, datetime
 from bs4 import BeautifulSoup as BS
 import random,time
